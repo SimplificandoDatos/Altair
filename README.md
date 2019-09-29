@@ -1,4 +1,4 @@
-Currículo de visualización de datos
+# Currículo de visualización de datos
 
 Este es un currículo de visualización de datos de notebooks interactivos, utilizando [Altair](https://altair-viz.github.io/). Este repositorio contiene una serie de Jupyter notebooks basados en Python.
 
