@@ -6,10 +6,10 @@ Este es un currículo de visualización de datos de notebooks interactivos, util
 
 ### Tabla de contenido
 
-2.  Introduction to Altair<br/>  
+1.  Introduction to Altair<br/>  
     
     <small>
-      [Jupyter Notebook](https://github.com/uwdata/visualization-curriculum/blob/master/altair_introduction.ipynb)
+      [Jupyter Notebook](https://github.com/SimplificandoDatos/Altair/blob/master/01_introduccion_altair.ipynb)
     </small>
     
     #### Nota: Se irá actualizando conforme se vayan traduciendo los distintos notebooks
