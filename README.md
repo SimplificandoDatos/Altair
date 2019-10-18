@@ -7,12 +7,10 @@ Este es un currículo de visualización de datos de notebooks interactivos, util
 ### Tabla de contenido
 
 1.  Introducción a Altair<br/>  
-    
     <small>
       [Jupyter Notebook](https://github.com/SimplificandoDatos/Altair/blob/master/01_introduccion_altair.ipynb)
     </small>
  2.  Tipos de datos, marcadores para gráficas y canales de codificación visual<br/>  
-    
     <small>
       [Jupyter Notebook](https://github.com/SimplificandoDatos/Altair/blob/master/02_marcadores_codificadores_altair.ipynb)
     </small>
