@@ -18,6 +18,12 @@ Este es un currículo de visualización de datos de notebooks interactivos, util
     
       [Abrir en Colab](https://colab.research.google.com/github/SimplificandoDatos/Altair/blob/master/02_marcadores_codificadores_altair.ipynb)
     </small>
+ 3.  Transformación de datos: Histogramas, estadísticos, ordenamientos, etc.<br/>  
+    <small>
+      [Jupyter Notebook](https://github.com/SimplificandoDatos/Altair/blob/master/03_transformacion_de_datos_altair.ipynb)
+    
+      [Abrir en Colab](https://colab.research.google.com/github/SimplificandoDatos/Altair/blob/master/03_transformacion_de_datos_altair.ipynb)
+    </small>
  
 #### Nota: Se irá actualizando conforme se vayan traduciendo los distintos notebooks
     
