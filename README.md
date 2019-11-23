@@ -24,6 +24,12 @@ Este es un currículo de visualización de datos de notebooks interactivos, util
     
       [Abrir en Colab](https://colab.research.google.com/github/SimplificandoDatos/Altair/blob/master/03_transformacion_de_datos_altair.ipynb)
     </small>
+ 4.  Escalas, ejes y leyendas.<br/>  
+    <small>
+      [Jupyter Notebook](https://github.com/SimplificandoDatos/Altair/blob/master/04_escalas_ejes_leyendas_altair.ipynb)
+    
+      [Abrir en Colab](https://colab.research.google.com/github/SimplificandoDatos/Altair/blob/master/04_escalas_ejes_leyendas_altair.ipynb)
+    </small>
  
 #### Nota: Se irá actualizando conforme se vayan traduciendo los distintos notebooks
     
