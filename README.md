@@ -36,6 +36,13 @@ Este es un currículo de visualización de datos de notebooks interactivos, util
     
       [Abrir en Colab](https://colab.research.google.com/github/SimplificandoDatos/Altair/blob/master/05_composion_multivista_altair.ipynb)
     </small>
+  5.  Graficas Interactivas.<br/>  
+    <small>
+      [Jupyter Notebook](https://github.com/SimplificandoDatos/Altair/blob/master/06_interaccion_altair.ipynb)
+    
+      [Abrir en Colab](https://colab.research.google.com/github/SimplificandoDatos/Altair/blob/master/06_interaccion_altair.ipynb)
+    </small>
+
 #### Nota: Se irá actualizando conforme se vayan traduciendo los distintos notebooks
     
 
